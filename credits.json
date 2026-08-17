@@ -1528,5 +1528,305 @@
     "query": "natural light portrait person outdoors",
     "group": "portraits",
     "width": 2560
+  },
+  "unsplash/youth-sports/team-hotel-arrival-1": {
+    "id": "hCdOP62BD38",
+    "description": "People walking up a cobblestone path with stairs.",
+    "photographer": "Ben Kupke",
+    "photographerUrl": "https://unsplash.com/@benkupke?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/people-walking-up-a-cobblestone-path-with-stairs-hCdOP62BD38?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "young athletes with sports bags walking",
+    "group": "youth-sports",
+    "width": 2560
+  },
+  "unsplash/youth-sports/team-hotel-arrival-2": {
+    "id": "CsHc665uMss",
+    "description": "Mountain Rescue Team ",
+    "photographer": "Matt C",
+    "photographerUrl": "https://unsplash.com/@mchesin?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/2-men-in-yellow-safety-vest-walking-on-road-during-daytime-CsHc665uMss?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "young athletes with sports bags walking",
+    "group": "youth-sports",
+    "width": 2560
+  },
+  "unsplash/youth-sports/team-hotel-arrival-3": {
+    "id": "_l8ED6rw83U",
+    "description": "Young women running on a paved path through a park.",
+    "photographer": "Richard Burlton",
+    "photographerUrl": "https://unsplash.com/@richardworks?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/young-women-running-on-a-paved-path-through-a-park-_l8ED6rw83U?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "young athletes with sports bags walking",
+    "group": "youth-sports",
+    "width": 2560
+  },
+  "unsplash/platform/dual-screen-desk-1": {
+    "id": "4mHaSX8zvJI",
+    "description": "CODING WORKSPACE - HOMEOFFICE",
+    "photographer": "Jannis Brandt",
+    "photographerUrl": "https://unsplash.com/@jannisbrandt?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/turned-on-flat-screen-monitors-and-macbook-pro-4mHaSX8zvJI?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "dual monitors desk office workstation",
+    "group": "platform",
+    "width": 2560
+  },
+  "unsplash/platform/dual-screen-desk-2": {
+    "id": "BMnhuwFYr7w",
+    "description": "turned on laptop computer",
+    "photographer": "Joshua Aragon",
+    "photographerUrl": "https://unsplash.com/@goshua13?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/turned-on-laptop-computer-BMnhuwFYr7w?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "dual monitors desk office workstation",
+    "group": "platform",
+    "width": 2560
+  },
+  "unsplash/platform/dual-screen-desk-3": {
+    "id": "SVpWtjXmLZg",
+    "description": "black flat screen tv on white wooden table",
+    "photographer": "Jorge Ramirez",
+    "photographerUrl": "https://unsplash.com/@jorgedevs?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/black-flat-screen-tv-on-white-wooden-table-SVpWtjXmLZg?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "dual monitors desk office workstation",
+    "group": "platform",
+    "width": 2560
+  },
+  "unsplash/platform/wall-calendar-planning-1": {
+    "id": "GjAKNK4ocRc",
+    "description": "Wall Calendar November 2020",
+    "photographer": "Waldemar Brandt",
+    "photographerUrl": "https://unsplash.com/@waldemarbrandt67w?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/black-flat-screen-computer-monitor-GjAKNK4ocRc?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "wall calendar planner office wall",
+    "group": "platform",
+    "width": 2560
+  },
+  "unsplash/platform/wall-calendar-planning-2": {
+    "id": "oWUx0ON3EVc",
+    "description": "Wall Calendar January 2021, Year 2021 is coming ",
+    "photographer": "Waldemar Brandt",
+    "photographerUrl": "https://unsplash.com/@waldemarbrandt67w?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/black-flat-screen-computer-monitor-oWUx0ON3EVc?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "wall calendar planner office wall",
+    "group": "platform",
+    "width": 2560
+  },
+  "unsplash/platform/wall-calendar-planning-3": {
+    "id": "uGqrMOHlkl0",
+    "description": "Wall Calendar April 2021, Spring is coming",
+    "photographer": "Waldemar Brandt",
+    "photographerUrl": "https://unsplash.com/@waldemarbrandt67w?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/black-flat-screen-computer-monitor-uGqrMOHlkl0?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "wall calendar planner office wall",
+    "group": "platform",
+    "width": 2560
+  },
+  "unsplash/abstract/glass-steel-detail-1": {
+    "id": "T0iFfJw-rB0",
+    "description": "architectural photography of glass building",
+    "photographer": "Christian Ladewig",
+    "photographerUrl": "https://unsplash.com/@dozy_de?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/architectural-photography-of-glass-building-T0iFfJw-rB0?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "glass and steel building facade detail",
+    "group": "abstract",
+    "width": 2560
+  },
+  "unsplash/abstract/glass-steel-detail-2": {
+    "id": "48yI_ZyzuLo",
+    "description": "a building that has a lot of windows on it",
+    "photographer": "Michael",
+    "photographerUrl": "https://unsplash.com/@polygonglider?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/a-building-that-has-a-lot-of-windows-on-it-48yI_ZyzuLo?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "glass and steel building facade detail",
+    "group": "abstract",
+    "width": 2560
+  },
+  "unsplash/abstract/glass-steel-detail-3": {
+    "id": "gKMxcHB3U3E",
+    "description": "Sanomatalo (translation ‘Message building’) is a landmark building in downtown Helsinki, Finland. The contemporary architecture stands out in the city, as most buildings close by are built almost 100 years ago.",
+    "photographer": "Joakim Honkasalo",
+    "photographerUrl": "https://unsplash.com/@jhonkasalo?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/photography-of-glass-building-gKMxcHB3U3E?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "glass and steel building facade detail",
+    "group": "abstract",
+    "width": 2560
+  },
+  "unsplash/abstract/paper-texture-1": {
+    "id": "1dUaR9oMGbg",
+    "description": "Beige Paper Texture Background",
+    "photographer": "Diseñador 2026",
+    "photographerUrl": "https://unsplash.com/@gabita34?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/a-textured-light-beige-background-1dUaR9oMGbg?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "textured paper close up neutral background",
+    "group": "abstract",
+    "width": 2560
+  },
+  "unsplash/abstract/paper-texture-2": {
+    "id": "7K-qXuel4Do",
+    "description": "Textured white wall with diagonal shadow",
+    "photographer": "Pawel Czerwinski",
+    "photographerUrl": "https://unsplash.com/@pawel_czerwinski?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/textured-white-wall-with-diagonal-shadow-7K-qXuel4Do?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "textured paper close up neutral background",
+    "group": "abstract",
+    "width": 2560
+  },
+  "unsplash/abstract/paper-texture-3": {
+    "id": "-Mbv31LEMe8",
+    "description": "A textured gray background with subtle lighting",
+    "photographer": "MARIOLA GROBELSKA",
+    "photographerUrl": "https://unsplash.com/@mariolagr?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/a-textured-gray-background-with-subtle-lighting--Mbv31LEMe8?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "textured paper close up neutral background",
+    "group": "abstract",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/front-desk-handover-1": {
+    "id": "QpjyqYy5R-U",
+    "description": "man standing beside counter",
+    "photographer": "Helena Lopes",
+    "photographerUrl": "https://unsplash.com/@helenalopesph?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/man-standing-beside-counter-QpjyqYy5R-U?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "hotel staff behind front desk computer",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/front-desk-handover-2": {
+    "id": "dQyS2pMYtok",
+    "description": "woman facing on white counter",
+    "photographer": "Christiann Koepke",
+    "photographerUrl": "https://unsplash.com/@christiannkoepke?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/woman-facing-on-white-counter-dQyS2pMYtok?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "hotel staff behind front desk computer",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/front-desk-handover-3": {
+    "id": "VB2B-O0j9Lw",
+    "description": "At the front desk of a business, a Vagaro PayPro sits next to the PayPro Mini displaying the company logo. Natural light floods in the windows in the background.",
+    "photographer": "Vagaro",
+    "photographerUrl": "https://unsplash.com/@vagaro?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/a-sleek-point-of-sale-system-is-displayed-VB2B-O0j9Lw?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "hotel staff behind front desk computer",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/housekeeping-cart-1": {
+    "id": "DKnqy7y_olk",
+    "description": "People walking down a long, sunlit hallway with columns.",
+    "photographer": "Abdul Ridwan",
+    "photographerUrl": "https://unsplash.com/@abdulridwanrr?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/people-walking-down-a-long-sunlit-hallway-with-columns-DKnqy7y_olk?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "hotel housekeeping cart hallway",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/housekeeping-cart-2": {
+    "id": "_FstoR-_Ixw",
+    "description": "yellow plastic trash bin beside black metal stair railings",
+    "photographer": "Jon Tyson",
+    "photographerUrl": "https://unsplash.com/@jontyson?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/yellow-plastic-trash-bin-beside-black-metal-stair-railings-_FstoR-_Ixw?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "hotel housekeeping cart hallway",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/housekeeping-cart-3": {
+    "id": "PkFdlMAl85Q",
+    "description": "Yellow mop bucket and wet floor sign by glass doors.",
+    "photographer": "Christian R",
+    "photographerUrl": "https://unsplash.com/@hazelikespollo?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/yellow-mop-bucket-and-wet-floor-sign-by-glass-doors-PkFdlMAl85Q?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "hotel housekeeping cart hallway",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/rooming-list-1": {
+    "id": "Ok76F6yW2iA",
+    "description": "white printer paper",
+    "photographer": "NORTHFOLK",
+    "photographerUrl": "https://unsplash.com/@northfolk?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/white-printer-paper-Ok76F6yW2iA?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "clipboard checklist paper pen desk",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/rooming-list-2": {
+    "id": "cjF2uV8jtxQ",
+    "description": "A black pen, phone case, and keyboard on a desk.",
+    "photographer": "Konrad Müli",
+    "photographerUrl": "https://unsplash.com/@entspannungsfuchs?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/a-black-pen-phone-case-and-keyboard-on-a-desk-cjF2uV8jtxQ?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "clipboard checklist paper pen desk",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/rooming-list-3": {
+    "id": "Ku2kBYheKss",
+    "description": "Notebook with glasses and pen on wooden table. View from above",
+    "photographer": "Sasun Bughdaryan",
+    "photographerUrl": "https://unsplash.com/@sasun1990?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/desk-with-notepad-pen-glasses-and-clips-Ku2kBYheKss?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "clipboard checklist paper pen desk",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/shuttle-loading-1": {
+    "id": "EWmXFK7yT7Q",
+    "description": "tram",
+    "photographer": "bruce mars",
+    "photographerUrl": "https://unsplash.com/@brucemars?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/tilt-shift-photography-of-man-EWmXFK7yT7Q?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "passengers boarding bus with luggage",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/shuttle-loading-2": {
+    "id": "R3uRre_g5Iw",
+    "description": "Camera: Nikon F3 Lens: Voigtlander Nokton 58mm f/1.4 SL II S Film: Kodak Portra 400",
+    "photographer": "Zhen Yao",
+    "photographerUrl": "https://unsplash.com/@zhenyao_photo?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/a-group-of-people-getting-on-a-bus-R3uRre_g5Iw?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "passengers boarding bus with luggage",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/hotel-operations/shuttle-loading-3": {
+    "id": "b_5TXm12YKY",
+    "description": "a group of people boarding a bus on a sunny day",
+    "photographer": "Frankie Cordoba",
+    "photographerUrl": "https://unsplash.com/@noorvoux?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/a-group-of-people-boarding-a-bus-on-a-sunny-day-b_5TXm12YKY?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "passengers boarding bus with luggage",
+    "group": "hotel-operations",
+    "width": 2560
+  },
+  "unsplash/youth-sports/gear-bags-corridor-1": {
+    "id": "Srqa975RQDY",
+    "description": "a baseball glove, catchers mitt, and helmet sit on a bench",
+    "photographer": "Kenny Nguyễn",
+    "photographerUrl": "https://unsplash.com/@nguyening?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/a-baseball-glove-catchers-mitt-and-helmet-sit-on-a-bench-Srqa975RQDY?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "sports bags equipment",
+    "group": "youth-sports",
+    "width": 2560
+  },
+  "unsplash/youth-sports/gear-bags-corridor-2": {
+    "id": "FWuRa-0X6G8",
+    "description": "a duffle bag sitting on top of a tennis court",
+    "photographer": "SideSpin Padel",
+    "photographerUrl": "https://unsplash.com/@sidespin?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/a-duffle-bag-sitting-on-top-of-a-tennis-court-FWuRa-0X6G8?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "sports bags equipment",
+    "group": "youth-sports",
+    "width": 2560
+  },
+  "unsplash/youth-sports/gear-bags-corridor-3": {
+    "id": "v2jenVUlK0U",
+    "description": "Nike golf bag on dark background with hard shadow",
+    "photographer": "Tom Conway",
+    "photographerUrl": "https://unsplash.com/@tecreate?utm_source=eventpipe_slides&utm_medium=referral",
+    "photoUrl": "https://unsplash.com/photos/blue-and-black-backpack-on-gray-concrete-floor-v2jenVUlK0U?utm_source=eventpipe_slides&utm_medium=referral",
+    "query": "sports bags equipment",
+    "group": "youth-sports",
+    "width": 2560
   }
 }
